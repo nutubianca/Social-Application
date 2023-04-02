@@ -41,7 +41,7 @@ public class HelloApplication extends Application {
 
         System.out.println("Reading data from file");
         String username="postgres";
-        String pasword="Biancanutu11";
+        String pasword="postgres";
         String url="jdbc:postgresql://localhost:5432/socialnetwork5";
         Repo<Integer, User> utilizatorRepository =
                 new UserDbRepo(url,username, pasword,  new UserValidator());
