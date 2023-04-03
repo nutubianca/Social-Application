@@ -1,1 +1,1 @@
-Project in Java
+Advanced methods of programming. This Java project is an application with a graphical user interface for managing users and their friends in a social network. It saves all data in a database (for this I used PostgreSQL). This project is simmilar with the C++ SocialNetwork one, but with a more in depth approach on different features and also in efficiency.
